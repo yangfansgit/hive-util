@@ -77,6 +77,7 @@ public class GroupSetsUtil {
     }
 
     public static void main(String[] args) {
+        // 添加备注
         String line1= "region_id,province_id,city_id,manager_id,cate1_id,cate2_id";
         String line= "imei,city1,cate3";
         String line2= "city1, cate3, cate4, platform, source";
